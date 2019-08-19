@@ -32,4 +32,4 @@ def root():
   return render_template("index.html", d = result)
 ```
 
-[網頁](https://thomasdiary.herokuapp.com)
+[網頁](https://thomasdiary.herokuapp.com/)
